@@ -116,31 +116,31 @@ The class will be recorded, and the recordings available to you to rewatch, or c
 
 Rough outline of the course. Subject to change.
 
-1. review and advanced python
+1. __review and advanced python__
   - course mechanics and expectations
   - python you should know
   - list comprehensions
   - classes and objects
-2. matplotlib
+2. __matplotlib__
   - matplotlib and containers
   - visual clarity; communicating scientific information
   - multidimensional plotting
-3. linear algebra + numerical methods I
+3. __linear algebra + numerical methods I__
   - numpy
   - numerical methods
-4. linear algebra + numerical methods II
+4. __linear algebra + numerical methods II__
   - linear algebra through numpy and scipy
-5. RCC + bash scripting
+5. __RCC + bash scripting__
   - bash basics
   - RCC access, using the VPN, ssh
-6. pandas + seaborn I
+6. __pandas + seaborn I__
   - basics of pandas
   - manipulating dataframes
-7. pandas + seaborn II
+7. __pandas + seaborn II__
   - applications
-8. working with geosci data I
+8. __working with geosci data I__
   - netCDF
   - xarray
   - metpy
-9. working with geosci data II
+9. __working with geosci data II__
   - applications
