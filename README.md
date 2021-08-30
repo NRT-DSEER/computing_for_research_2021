@@ -89,4 +89,58 @@ This will walk you through creating a git repository on your Desktop through you
 
 ## Syllabus 
 
-update this later
+### Instructors
+
+The instructors are both on Slack, and if you have any questions for us, please message us there instead of sending an email. Please check your email for the Slack invite; if you don't see it, check your spam folder.
+
+- Ander Feistritzer (he/him) - 2nd year master's student, statistics
+- Giorgio Sarro (he/him) - 2nd year PhD student, geophysical sciences
+
+### TAs
+
+Contact over Slack, or attend office hours.
+
+### Class Time
+
+We will meet M-F from 10am-12:30pm CST, from Aug 30 - Sept 10. There will be no class Monday, Sept 6 for Labor Day.
+
+### How to ask for help
+
+During class, please post in the Slack channel, or DM the TAs, for real-time responses. For help outside of class time, please attend the office hours.
+
+### Recordings
+
+The class will be recorded, and the recordings available to you to rewatch, or catch up on a missed class. They will be on UChicago Box; link pending.
+
+## Course Outline
+
+Rough outline of the course. Subject to change.
+
+1. __review and advanced python__
+  - course mechanics and expectations
+  - python you should know
+  - list comprehensions
+  - classes and objects
+2. __matplotlib__
+  - matplotlib and containers
+  - visual clarity; communicating scientific information
+  - multidimensional plotting
+3. __linear algebra + numerical methods I__
+  - numpy
+  - numerical methods
+4. __linear algebra + numerical methods II__
+  - linear algebra through numpy and scipy
+5. __RCC + bash scripting__
+  - bash basics
+  - RCC access, using the VPN, ssh
+6. __pandas + seaborn I__
+  - basics of pandas
+  - manipulating dataframes
+7. __pandas + seaborn II__
+  - applications
+8. __working with geosci data I__
+  - netCDF
+  - xarray
+  - metpy
+9. __working with geosci data II__
+  - applications
