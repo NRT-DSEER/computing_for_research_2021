@@ -3,7 +3,7 @@
 This repo contains the scripts and data for the 2021 DSEER "Computing for Research" bootcamp. It will be updated frequently with new materials and solutions to past exercises.
 
 ## TO-DO List:
-1. [] Check that your environment is [setup correctly](#environment-setup-instructions)
+1. Check that your environment is [setup correctly](#environment-setup-instructions)
   - [python](#python)
   - [Github](#github-and-git)
   - [package manager](#pip--conda)
