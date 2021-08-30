@@ -11,7 +11,7 @@ This repo contains the scripts and data for the 2021 DSEER "Computing for Resear
   - [libraries](#libraries)
 2. Create a [git repository](#creating-a-git-repository) on your Desktop
 3. [Check](#check-that-everything-works) that you've correctly done steps 1 and 2 by running the `welcome.ipynb` notebook
-4. Read through the [syllabus]()
+4. Read through the [syllabus](#syllabus)
 
 ---
 
