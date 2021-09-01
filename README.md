@@ -147,16 +147,16 @@ Rough outline of the course. Subject to change.
 
 
 ## Office Hours
-Office Hours Zoom: https://uchicago.zoom.us/j/97595368275?pwd=RU0vZjlDN25Kb3NTZ0NBdGNaN1l2Zz09
-Meeting ID: 975 9536 8275
-Passcode: 432544
+Office Hours Zoom: 
+https://uchicago.zoom.us/j/97595368275?pwd=RU0vZjlDN25Kb3NTZ0NBdGNaN1l2Zz09
+Meeting ID: 975 9536 8275    Passcode: 432544
 
 
 
 ### Week One:
 
 __September 1, 2021 (Wednesday)__
-Slot 1: 11am-12pm 
+- 11am-12pm 
 
 ### September 2, 2021 (Thursday)
 Slot 1: 4-5 pm
