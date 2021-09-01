@@ -106,7 +106,7 @@ We will meet M-F from 10am-12:30pm CST, from Aug 30 - Sept 10. There will be no 
 
 ### How to ask for help
 
-During class, please post in the Slack channel, or DM the TAs, for real-time responses. For help outside of class time, please attend the office hours.
+During class, please post in the Slack channel, or DM the TAs, for real-time responses. For help outside of class time, please attend [office hours](#office-hours).
 
 ### Recordings
 
