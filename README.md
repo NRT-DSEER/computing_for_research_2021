@@ -156,24 +156,24 @@ Meeting ID: 975 9536 8275    Passcode: 432544
 ### Week One:
 
 __September 1, 2021 (Wednesday)__
-- 11am-12pm 
+- 11am-12pm (Megan)
 
-### September 2, 2021 (Thursday)
-Slot 1: 4-5 pm
+__September 2, 2021 (Thursday)__
+- 4-5 pm (Jonathan)
 
-### September 3, 2021 (Friday)
-Slot 1: 2:30-3:30 pm
+__September 3, 2021 (Friday)__
+- 2:30-3:30 pm (Ian)
 
 ### Week Two:
 
-### September 7, 2021 (Tuesday)
-Slot 1: 1-2 pm 
+__September 7, 2021 (Tuesday)__
+- 1-2 pm (Haynes)
 
-### September 8, 2021 (Wednesday)
-Slot 1: 1-2 pm
+__September 8, 2021 (Wednesday)__
+- 1-2 pm (Haynes)
 
-### September 9, 2021 (Thursday)
-Slot 1: 2-3 pm
+__September 9, 2021 (Thursday)__
+- 2-3 pm (Megan)
 
-### September 10, 2021 (Friday)
-Slot 1: 9-10 am
+__September 10, 2021 (Friday)__
+- 9-10 am (Jonathan)
