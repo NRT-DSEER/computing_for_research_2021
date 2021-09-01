@@ -144,3 +144,34 @@ Rough outline of the course. Subject to change.
   - metpy
 9. __working with geosci data II__
   - applications
+
+
+# Office Hours
+Office Hours Zoom: 
+
+
+
+## Week One:
+
+### September 1, 2021 (Wednesday)
+Slot 1: 11am-12pm 
+
+### September 2, 2021 (Thursday)
+Slot 1: 4-5 pm
+
+### September 3, 2021 (Friday)
+Slot 1: 2:30-3:30 pm
+
+## Week Two:
+
+### September 7, 2021 (Tuesday)
+Slot 1: 1-2 pm 
+
+### September 8, 2021 (Wednesday)
+Slot 1: 1-2 pm
+
+### September 9, 2021 (Thursday)
+Slot 1: 2-3 pm
+
+### September 10, 2021 (Friday)
+Slot 1: 9-10 am
