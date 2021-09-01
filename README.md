@@ -146,14 +146,16 @@ Rough outline of the course. Subject to change.
   - applications
 
 
-# Office Hours
-Office Hours Zoom: 
+## Office Hours
+Office Hours Zoom: https://uchicago.zoom.us/j/97595368275?pwd=RU0vZjlDN25Kb3NTZ0NBdGNaN1l2Zz09
+Meeting ID: 975 9536 8275
+Passcode: 432544
 
 
 
-## Week One:
+### Week One:
 
-### September 1, 2021 (Wednesday)
+__September 1, 2021 (Wednesday)__
 Slot 1: 11am-12pm 
 
 ### September 2, 2021 (Thursday)
@@ -162,7 +164,7 @@ Slot 1: 4-5 pm
 ### September 3, 2021 (Friday)
 Slot 1: 2:30-3:30 pm
 
-## Week Two:
+### Week Two:
 
 ### September 7, 2021 (Tuesday)
 Slot 1: 1-2 pm 
