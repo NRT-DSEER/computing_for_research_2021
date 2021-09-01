@@ -91,7 +91,7 @@ This will walk you through creating a git repository on your Desktop through you
 
 ### Instructors
 
-The instructors are both on Slack, and if you have any questions for us, please message us there instead of sending an email. Please check your email for the Slack invite; if you don't see it, check your spam folder.
+The instructors are both on Slack, and if you have any questions for us, please message us there instead of sending an email. Please check your email for the Slack invite; if you don't see it, check your spam folder. Note that Slack is only available for students taking the live version of the course. 
 
 - Ander Feistritzer (he/him) - 2nd year master's student, statistics
 - Giorgio Sarro (he/him) - 2nd year PhD student, geophysical sciences
@@ -146,10 +146,11 @@ Rough outline of the course. Subject to change.
   - applications
 
 
-# Office Hours
+## Office Hours
 Office Hours Zoom: 
 https://uchicago.zoom.us/j/97595368275?pwd=RU0vZjlDN25Kb3NTZ0NBdGNaN1l2Zz09
-Meeting ID: 975 9536 8275    Passcode: 432544
+- Meeting ID: 975 9536 8275    
+- Passcode: 432544
 
 
 
