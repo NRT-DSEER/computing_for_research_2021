@@ -98,7 +98,7 @@ The instructors are both on Slack, and if you have any questions for us, please 
 
 ### TAs
 
-Contact over Slack, or attend office hours.
+Contact over Slack, or attend [office hours](#office-hours).
 
 ### Class Time
 
@@ -146,7 +146,7 @@ Rough outline of the course. Subject to change.
   - applications
 
 
-## Office Hours
+# Office Hours
 Office Hours Zoom: 
 https://uchicago.zoom.us/j/97595368275?pwd=RU0vZjlDN25Kb3NTZ0NBdGNaN1l2Zz09
 Meeting ID: 975 9536 8275    Passcode: 432544
