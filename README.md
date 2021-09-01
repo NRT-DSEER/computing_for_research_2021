@@ -157,24 +157,24 @@ https://uchicago.zoom.us/j/97595368275?pwd=RU0vZjlDN25Kb3NTZ0NBdGNaN1l2Zz09
 ### Week One:
 
 __September 1, 2021 (Wednesday)__
-- 11am-12pm (Megan)
+- 11am-12pm CT (Megan)
 
 __September 2, 2021 (Thursday)__
-- 4-5 pm (Jonathan)
+- 4-5 pm CT (Jonathan)
 
 __September 3, 2021 (Friday)__
-- 2:30-3:30 pm (Ian)
+- 2:30-3:30 pm CT (Ian)
 
 ### Week Two:
 
 __September 7, 2021 (Tuesday)__
-- 1-2 pm (Haynes)
+- 1-2 pm CT (Haynes)
 
 __September 8, 2021 (Wednesday)__
-- 1-2 pm (Haynes)
+- 1-2 pm CT (Haynes)
 
 __September 9, 2021 (Thursday)__
-- 2-3 pm (Megan)
+- 2-3 pm CT (Megan)
 
 __September 10, 2021 (Friday)__
-- 9-10 am (Jonathan)
+- 9-10 am CT (Jonathan)
